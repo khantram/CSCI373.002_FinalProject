@@ -2,6 +2,7 @@
 ### Parallelizing Stochastic Diffusion using MPI
 
 Initially a group project with Nathan Breedlove and Eliot Dixon
+
 @Kenny Tram hoping to continue the project
 
 
