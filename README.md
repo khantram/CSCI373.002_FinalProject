@@ -1,10 +1,7 @@
 ## CSCI 373.002 - Final Project (continued work)
 ### Parallelizing Stochastic Diffusion using MPI
 
-Initially a group project with Nathan Breedlove and Eliot Dixon
-
-@Kenny Tram hoping to continue the project
-
+A group project with Nathan Breedlove and Eliot Dixon
 
 ###### Notes
 - spacial_stoch.c - Serial Implementation
